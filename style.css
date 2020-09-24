@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  overflow: hidden;
+}
+canvas {
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.flex {
+  display: flex;
+  margin-top: 10%;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
+}
